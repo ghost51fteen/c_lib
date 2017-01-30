@@ -1,1 +1,2 @@
-# c_lib \n # repo for random c projects n' savin' n such
+# c_lib 
+# repo for random c projects n' savin' n such
