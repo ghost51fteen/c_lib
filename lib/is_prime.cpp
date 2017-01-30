@@ -25,7 +25,7 @@ int main(){
   for (count = 2; count <= num - 1; count++) {
     mod = num % count;
     cout << num << " mod " << count << " = " << mod << endl;
-    if (num % count == 0 && num != count) {
+    if (mod == 0 && num != count) {
       cout << "Sorry, " << num << " is not prime." << endl;
       break;
     }
